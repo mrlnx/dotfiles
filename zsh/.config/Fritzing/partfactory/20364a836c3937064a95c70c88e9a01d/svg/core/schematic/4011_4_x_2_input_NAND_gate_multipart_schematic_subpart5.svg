@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="svg6563" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" width="0.809929in" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" height="0.381753in" viewBox="0 0 809.929 381.754">
+    <g id="defs6565"/>
+    <g id="metadata6568">
+        <g>
+            <g rdf:about="">
+                <g>image/svg+xml</g>
+                <g rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <g/>
+            </g>
+        </g>
+    </g>
+    <g id="schematic">
+        <g id="subpart1">
+            <g x="100.00003" id="rect7" stroke-width="10" y="110.00001" width="600.00018" stroke="#000000" height="1800.0006" fill="none"/>
+            <g x="589.37805" id="label" font-size="60" y="1854.1245" text-anchor="middle" font-family="'Droid Sans'" fill="#000000">4011</g>
+            <g id="connector6pin" stroke-width="10" stroke-linecap="round" y2="2004.9294" y1="1909.9294" stroke="#555555" x1="405.00064" fill="none" x2="405.00064"/>
+            <g x="400.00012" id="connector6terminal" y="2000.0006" width="9.9999981" height="10" fill="none"/>
+            <g x="458.23926" id="label6" font-size="35" y="1975.9332" text-anchor="end" font-family="'Droid Sans'" fill="#555555">7</g>
+            <g x="353.03366" id="text6039" font-size="49" y="1880.0977" text-anchor="start" font-family="'Droid Sans'" fill="#555555">GND</g>
+            <g x="427.41769" id="label13" font-size="35" y="79.74276" text-anchor="start" font-family="'Droid Sans'" fill="#555555">14</g>
+            <g id="connector13pin" stroke-width="10" stroke-linecap="round" y2="5.305501" y1="104.69453" stroke="#555555" x1="405.00012" fill="none" x2="405.00012"/>
+            <g x="400.00012" id="connector13terminal" y="0" width="10" height="10" fill="none"/>
+            <g x="452.98978" id="text5967" font-size="49" y="175.67874" text-anchor="end" font-family="'Droid Sans'" fill="#555555">VDD</g>
+        </g>
+        <g id="subpart2">
+            <g id="connector0pin" stroke-width="10" stroke-linecap="round" y2="305.42474" y1="305.42474" stroke="#555555" x1="5.246098" fill="none" x2="100.24611"/>
+            <g x="0.24609908" id="connector0terminal" y="300.00009" width="10" height="10" fill="none"/>
+            <g id="connector1pin" stroke-width="10" stroke-linecap="round" y2="505.42474" y1="505.42474" stroke="#555555" x1="5.246098" fill="none" x2="100.24611"/>
+            <g x="0.24609908" id="connector1terminal" y="500.42474" width="10" height="10" fill="none"/>
+            <g x="57.885929" id="label0" font-size="35" y="280.07526" text-anchor="start" font-family="'Droid Sans'" fill="#555555">1</g>
+            <g x="52.561134" id="label1" font-size="35" y="479.99863" text-anchor="start" font-family="'Droid Sans'" fill="#555555">2</g>
+            <g x="118.15548" id="text5937" font-size="49" y="482.47986" text-anchor="start" font-family="'Droid Sans'" fill="#555555">B1</g>
+            <g x="122.91671" id="text5913" font-size="49" y="282.21884" text-anchor="start" font-family="'Droid Sans'" fill="#555555">A1</g>
+            <g id="connector2pin" stroke-width="10" stroke-linecap="round" y2="405.42474" y1="405.42474" stroke="#555555" x1="705.25568" fill="none" x2="804.74469"/>
+            <g x="800.00024" id="connector2terminal" y="400.00012" width="10" stroke="none" height="10" fill="none"/>
+            <g x="748.2478" id="label2" font-size="35" y="379.43402" text-anchor="end" font-family="'Droid Sans'" fill="#555555">3</g>
+            <g x="597.16711" id="text9787" font-size="49" y="319.80847" text-anchor="start" font-family="'Droid Sans'" fill="#555555">Q1</g>
+            <g d="m 200.00007,226.42475 h 142.57922 c 142.57922,0 213.86883,80 213.86883,180 0,100 -71.28961,180 -213.86883,180 H 200.00007 v -80 -100 -100 z" id="body-4011-0" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g d="m 100.33469,305.83284 h 99.66539" id="a-pin-4011-0" stroke-width="10.00000095" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g d="m 100.33469,505.14844 h 99.66539" id="b-pin-4011-0" stroke-width="10.00000095" stroke="#000000" fill="none"/>
+            <g d="m 640.00021,405.49064 h 60.77453" id="q-pin-4011-0" stroke-width="9.99999905" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g cy="405.49066" r="40" id="not-q-4011-0" stroke-width="10" stroke="#000000" cx="602.29187" fill="none"/>
+        </g>
+        <g id="subpart3">
+            <g id="connector4pin" stroke-width="10" stroke-linecap="round" y2="705.42346" y1="705.42346" stroke="#555555" x1="5.1315417" fill="none" x2="100.34022"/>
+            <g x="0.26687679" id="connector4terminal" stroke-width="0" y="699.61615" width="10" height="10" fill="none"/>
+            <g id="connector5pin" stroke-width="10" stroke-linecap="round" y2="905.42346" y1="905.42346" stroke="#555555" x1="5.1315417" fill="none" x2="100.34022"/>
+            <g x="0.26687679" id="connector5terminal" stroke-width="0" y="898.9353" width="10" height="10" fill="none"/>
+            <g x="52.631329" id="label4" font-size="35" y="679.43005" text-anchor="start" font-family="'Droid Sans'" fill="#555555">5</g>
+            <g x="52.589642" id="label5" font-size="35" y="879.61646" text-anchor="start" font-family="'Droid Sans'" fill="#555555">6</g>
+            <g x="118.15548" id="text6027" font-size="49" y="882.29065" text-anchor="start" font-family="'Droid Sans'" fill="#555555">B2</g>
+            <g x="122.91671" id="text6021" font-size="49" y="682.29083" text-anchor="start" font-family="'Droid Sans'" fill="#555555">A2</g>
+            <g x="749.62189" id="text43" font-size="35" y="779.2951" text-anchor="end" font-family="'Droid Sans'" fill="#555555" class="text">4</g>
+            <g x="597.16577" id="text9853" font-size="49" y="719.22125" text-anchor="start" font-family="'Droid Sans'" fill="#555555">Q2</g>
+            <g id="connector3pin" stroke-width="10" stroke-linecap="round" y2="805.42346" y1="805.42346" stroke="#555555" x1="705.29523" fill="none" x2="804.70526"/>
+            <g x="800.00024" id="connector3terminal" y="800.00024" width="9.9999981" height="10" fill="none"/>
+            <g id="path5659" d="m 200.00007,624.96834 h 142.57922 c 142.57921,0 213.86883,79.72601 213.86883,179.38381 0,99.6578 -71.28962,179.38492 -213.86883,179.38492 H 200.00007 v -79.72712 -99.6578 -99.6578 z" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g id="path5661" d="M 95.304433,705.42395 H 200.00007" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g id="path5663" d="M 95.304433,905.42392 H 200.00007" stroke-width="10" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000" fill="none"/>
+            <g id="path5665" d="m 640.00023,805.42394 h 55.74428" fill-rule="evenodd" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g r="40" cy="805.39508" id="circle5667" stroke-width="10" stroke="#000000" cx="602.29187" fill="none"/>
+        </g>
+        <g id="subpart4">
+            <g id="connector7pin" stroke-width="10" stroke-linecap="round" y2="1105.4233" y1="1105.4233" stroke="#555555" x1="100.27997" fill="none" x2="5.0712123"/>
+            <g x="0.32713184" id="connector7terminal" stroke-width="0" y="1098.2476" width="10" height="10" fill="none"/>
+            <g id="connector8pin" stroke-width="10" stroke-linecap="round" y2="1305.4233" y1="1305.4233" stroke="#555555" x1="100.27997" fill="none" x2="5.0712152"/>
+            <g x="0.32713184" id="connector8terminal" stroke-width="0" y="1300.4238" width="10" height="10" fill="none"/>
+            <g id="line114" stroke-linecap="round" y2="1202.7537" y1="1202.7537" stroke="#555555" x1="705.64594" fill="none" x2="795.98993"/>
+            <g x="727.49316" id="label9" font-size="35" y="1179.4291" font-family="'Droid Sans'" fill="#555555">10</g>
+            <g x="597.16577" id="text9831" font-size="49" y="1119.4513" text-anchor="start" font-family="'Droid Sans'" fill="#555555">Q3</g>
+            <g x="52.290421" id="label8" font-size="35" y="1279.7742" text-anchor="start" font-family="'Droid Sans'" fill="#555555" class="text">9</g>
+            <g x="118.15548" id="text5949" font-size="49" y="1282.05" text-anchor="start" font-family="'Droid Sans'" fill="#555555">B3</g>
+            <g x="52.777832" id="label7" font-size="35" y="1079.3447" text-anchor="start" font-family="'Droid Sans'" fill="#555555" class="text">8</g>
+            <g x="122.91671" id="text5925" font-size="49" y="1082.0095" text-anchor="start" font-family="'Droid Sans'" fill="#555555">A3</g>
+            <g id="connector9pin" stroke-width="10" stroke-linecap="round" y2="1205.4233" y1="1205.4233" stroke="#555555" x1="804.70526" fill="none" x2="705.29523"/>
+            <g x="800.00024" id="connector9terminal" stroke-width="0" y="1200.0004" width="10" height="10" fill="none"/>
+            <g id="path5589" d="m 200.00007,1023.6007 h 142.57922 c 142.57921,0 213.86883,79.726 213.86883,179.3838 0,99.6589 -71.28962,179.3849 -213.86883,179.3849 H 200.00007 v -79.726 -99.6589 -99.6578 z" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g id="path5591" d="M 95.304433,1105.424 H 200.00007" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g id="path5593" d="M 95.304439,1305.4239 H 200.00008" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g id="path5595" d="m 640.00023,1205.4239 h 55.74428" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+            <g cy="1204.5837" id="circle5597" rx="40.000015" stroke-width="10" stroke="#000000" ry="40" cx="602.29187" fill="none"/>
+        </g>
+        <g id="subpart5">
+            <g transform="translate(-0.0712123,-1404.25)">
+                <g>
+                    <line id="connector11pin" stroke-width="10" stroke-linecap="round" y2="1505.4233" y1="1505.4233" stroke="#555555" x1="100.27997" fill="none" x2="5.0712123"/>
+                    <rect x="0.26687583" id="connector11terminal" stroke-width="0" y="1500.4238" width="10" height="10" fill="none"/>
+                    <rect x="0.26687679" id="connector12terminal" stroke-width="0" y="1700.4238" width="10" height="10" fill="none"/>
+                    <line id="connector12pin" stroke-width="10" stroke-linecap="round" y2="1705.4232" y1="1705.4232" stroke="#555555" x1="100.27997" fill="none" x2="5.0712152"/>
+                    <text x="33.351559" id="label12" font-size="35" y="1679.6106" text-anchor="start" font-family="'Droid Sans'" fill="#555555">13</text>
+                    <text x="33.539761" id="label11" font-size="35" y="1480.0623" text-anchor="start" font-family="'Droid Sans'" fill="#555555">12</text>
+                    <text x="118.15548" id="text5955" font-size="49" y="1682.6371" text-anchor="start" font-family="'Droid Sans'" fill="#555555">B4</text>
+                    <text x="122.91671" id="text5931" font-size="49" y="1483.193" text-anchor="start" font-family="'Droid Sans'" fill="#555555">A4</text>
+                    <line id="connector10pin" stroke-width="10" stroke-linecap="round" y2="1605" y1="1605" stroke="#555555" x1="705.33606" fill="none" x2="804.66437"/>
+                    <rect x="800.00024" id="connector10terminal" stroke-width="0" y="1600.4238" width="10" height="10" fill="none"/>
+                    <text x="765.57465" id="label10" font-size="35" y="1579.7954" text-anchor="end" font-family="'Droid Sans'" fill="#555555">11</text>
+                    <text x="597.16577" id="text9670" font-size="49" y="1518.6901" text-anchor="start" font-family="'Droid Sans'" fill="#555555">Q4</text>
+                    <path id="path5519" d="m 200.00007,1422.2319 h 142.57991 c 142.5799,0 213.86986,79.7271 213.86986,179.3849 0,99.6578 -71.28996,179.3838 -213.86986,179.3838 H 200.00007 v -79.726 -99.6578 -99.6578 z" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+                    <path id="path5521" d="M 95.304433,1505.4239 H 200.00007" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+                    <path id="path5523" d="M 95.304433,1705.4239 H 200.00007" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+                    <path id="path5525" d="m 640.00023,1605.4239 h 55.74428" stroke-width="10" stroke-linecap="butt" stroke="#000000" fill="none"/>
+                    <ellipse cy="1604.584" id="circle5527" rx="40.000015" stroke-width="10" stroke="#000000" ry="40" cx="602.29187" fill="none"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

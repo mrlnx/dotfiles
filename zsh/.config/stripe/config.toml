@@ -1,0 +1,9 @@
+color = ""
+
+[default]
+  account_id = "acct_1FeR0wA5Vq5N1SRT"
+  device_name = "MC236"
+  live_mode_api_key = "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"
+  live_mode_publishable_key = "pk_live_FjcpmPNzAy00WMK5akbIUnfn00RHRuNiPt"
+  test_mode_api_key = "rk_test_51FeR0wA5Vq5N1SRTExtFdXxS4Yy9npx2laFNwyrnVVhIitfu6wq4IXR8OrqZd19yYRkvrIBsLWU8s9kVQuhi6mfS00odhcVKsl"
+  test_mode_publishable_key = "pk_test_I9ojtKiE2NZAlLT6yAUZd6oD002DiVqt9b"

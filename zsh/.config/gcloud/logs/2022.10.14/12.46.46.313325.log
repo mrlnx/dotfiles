@@ -1,0 +1,95 @@
+2022-10-14 12:46:46,316 DEBUG    root            Loaded Command Group: ['gcloud', 'init']
+2022-10-14 12:46:46,318 DEBUG    root            Running [gcloud.init] with arguments: []
+2022-10-14 12:46:46,318 INFO     ___FILE_ONLY___ Welcome! This command will take you through the configuration of gcloud.
+
+
+2022-10-14 12:46:46,319 INFO     ___FILE_ONLY___ Settings from your current configuration [default] are:
+
+2022-10-14 12:46:46,323 INFO     ___FILE_ONLY___ core:
+  account: marlonlede@thesting.com
+  disable_usage_reporting: 'False'
+  project: hob-webshop
+
+2022-10-14 12:46:46,323 INFO     ___FILE_ONLY___ 
+
+2022-10-14 12:46:53,756 INFO     ___FILE_ONLY___ Your current configuration has been set to: [default]
+
+
+2022-10-14 12:46:53,756 INFO     ___FILE_ONLY___ You can skip diagnostics next time by using the following flag:
+
+2022-10-14 12:46:53,756 INFO     ___FILE_ONLY___   gcloud init --skip-diagnostics
+
+
+2022-10-14 12:46:53,757 INFO     ___FILE_ONLY___ Network diagnostic detects and fixes local network connection issues.
+
+2022-10-14 12:46:53,758 INFO     ___FILE_ONLY___ Checking network connection...
+2022-10-14 12:46:54,473 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): accounts.google.com:443
+2022-10-14 12:46:54,548 DEBUG    urllib3.connectionpool https://accounts.google.com:443 "GET / HTTP/1.1" 302 338
+2022-10-14 12:46:54,604 DEBUG    urllib3.connectionpool https://accounts.google.com:443 "GET /ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F HTTP/1.1" 302 527
+2022-10-14 12:46:54,672 DEBUG    urllib3.connectionpool https://accounts.google.com:443 "GET /v3/signin/identifier?dsh=S1744965500%3A1665744414732217&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWq5u1KXNy8n5_ohBrK9XjOcm_I6JobPqtkn3F8sRrSWRHtKu8TJQ-vosLKh8whDIucCSt7D2A HTTP/1.1" 200 None
+2022-10-14 12:46:54,702 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2022-10-14 12:46:55,340 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1beta1/projects HTTP/1.1" 401 None
+2022-10-14 12:46:55,348 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): www.googleapis.com:443
+2022-10-14 12:46:55,415 DEBUG    urllib3.connectionpool https://www.googleapis.com:443 "GET /auth/cloud-platform HTTP/1.1" 200 14
+2022-10-14 12:46:55,418 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 12:46:55,492 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-2.json HTTP/1.1" 200 203444
+2022-10-14 12:46:55,578 INFO     ___FILE_ONLY___ Reachability Check passed.
+
+2022-10-14 12:46:55,579 INFO     ___FILE_ONLY___ Network diagnostic passed (1/1 checks passed).
+
+
+2022-10-14 12:47:01,654 INFO     ___FILE_ONLY___ You are logged in as: [marlonlede@thesting.com].
+
+
+2022-10-14 12:47:01,675 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2022-10-14 12:47:02,084 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects?alt=json&filter=lifecycleState%3AACTIVE&pageSize=201 HTTP/1.1" 200 None
+2022-10-14 12:47:05,421 INFO     ___FILE_ONLY___ Your current project has been set to: [hob-webshop].
+
+
+2022-10-14 12:47:05,443 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2022-10-14 12:47:05,446 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'project_info']
+2022-10-14 12:47:05,451 DEBUG    root            Loaded Command Group: ['gcloud', 'compute', 'project-info', 'describe']
+2022-10-14 12:47:05,452 INFO     root            Executing: [gcloud compute project-info describe --quiet]
+2022-10-14 12:47:05,455 DEBUG    root            Running [gcloud.compute.project-info.describe] with arguments: [--no-user-output-enabled: "false", --quiet: "True", --verbosity: "none"]
+2022-10-14 12:47:05,615 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): compute.googleapis.com:443
+2022-10-14 12:47:05,900 DEBUG    urllib3.connectionpool https://compute.googleapis.com:443 "POST /batch/compute/v1 HTTP/1.1" 200 None
+2022-10-14 12:47:05,911 INFO     root            Display disabled.
+2022-10-14 12:47:07,379 DEBUG    root            Executing command: ['/Users/ledemn/Desktop/google-cloud-sdk/bin/gsutil', 'config', '-n', '-o', '/Users/ledemn/.boto']
+2022-10-14 12:47:09,918 DEBUG    ___FILE_ONLY___ 
+2022-10-14 12:47:09,919 DEBUG    ___FILE_ONLY___ This command will create a boto config file at /Users/ledemn/.boto
+containing your credentials, based on your responses to the following
+questions.
+
+Boto config file "/Users/ledemn/.boto" created. If you need to use a
+proxy to access the Internet please see the instructions in that file.
+
+2022-10-14 12:47:09,919 INFO     ___FILE_ONLY___ Created a default .boto configuration file at [/Users/ledemn/.boto]. See this file and
+[https://cloud.google.com/storage/docs/gsutil/commands/config] for more
+information about configuring Google Cloud Storage.
+
+2022-10-14 12:47:09,919 INFO     ___FILE_ONLY___ Your Google Cloud SDK is configured and ready to use!
+
+
+2022-10-14 12:47:09,920 INFO     ___FILE_ONLY___ * Commands that require authentication will use marlonlede@thesting.com by default
+
+2022-10-14 12:47:09,920 INFO     ___FILE_ONLY___ * Commands will reference project `hob-webshop` by default
+
+2022-10-14 12:47:09,920 INFO     ___FILE_ONLY___ Run `gcloud help config` to learn how to change individual settings
+
+
+2022-10-14 12:47:09,920 INFO     ___FILE_ONLY___ This gcloud configuration is called [default]. You can create additional configurations if you work with multiple accounts and/or projects.
+
+2022-10-14 12:47:09,921 INFO     ___FILE_ONLY___ Run `gcloud topic configurations` to learn more.
+
+
+2022-10-14 12:47:09,921 INFO     ___FILE_ONLY___ Some things to try next:
+
+
+2022-10-14 12:47:09,921 INFO     ___FILE_ONLY___ * Run `gcloud --help` to see the Cloud Platform services you can interact with. And run `gcloud help COMMAND` to get help on any gcloud command.
+
+2022-10-14 12:47:09,921 INFO     ___FILE_ONLY___ * Run `gcloud topic --help` to learn about advanced features of the SDK like arg files and output formatting
+
+2022-10-14 12:47:09,921 INFO     ___FILE_ONLY___ * Run `gcloud cheat-sheet` to see a roster of go-to `gcloud` commands.
+
+2022-10-14 12:47:09,922 INFO     root            Display format: "default"
+2022-10-14 12:47:09,933 DEBUG    root            Metrics reporting process started...

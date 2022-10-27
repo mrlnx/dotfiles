@@ -1,0 +1,10 @@
+2022-10-14 13:55:10,651 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 13:55:10,653 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations']
+2022-10-14 13:55:10,654 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'create']
+2022-10-14 13:55:10,656 DEBUG    root            Running [gcloud.config.configurations.create] with arguments: [CONFIGURATION_NAME: "hob"]
+2022-10-14 13:55:10,656 INFO     ___FILE_ONLY___ Created [hob].
+
+2022-10-14 13:55:10,658 INFO     ___FILE_ONLY___ Activated [hob].
+
+2022-10-14 13:55:10,659 INFO     root            Display format: "none"
+2022-10-14 13:55:10,668 DEBUG    root            Metrics reporting process started...

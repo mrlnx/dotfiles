@@ -1,0 +1,5 @@
+[core]
+disable_usage_reporting = False
+account = marlonlede@thesting.com
+project = hob-webshop
+

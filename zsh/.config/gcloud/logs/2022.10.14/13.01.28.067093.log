@@ -1,0 +1,14 @@
+2022-10-14 13:01:28,069 DEBUG    root            Loaded Command Group: ['gcloud', 'init']
+2022-10-14 13:01:28,071 DEBUG    root            Running [gcloud.init] with arguments: []
+2022-10-14 13:01:28,071 INFO     ___FILE_ONLY___ Welcome! This command will take you through the configuration of gcloud.
+
+
+2022-10-14 13:01:28,072 INFO     ___FILE_ONLY___ Settings from your current configuration [default] are:
+
+2022-10-14 13:01:28,076 INFO     ___FILE_ONLY___ core:
+  account: marlonlede@thesting.com
+  disable_usage_reporting: 'False'
+  project: hob-webshop
+
+2022-10-14 13:01:28,076 INFO     ___FILE_ONLY___ 
+

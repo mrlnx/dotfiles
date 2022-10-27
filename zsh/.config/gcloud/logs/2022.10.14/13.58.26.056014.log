@@ -1,0 +1,30 @@
+2022-10-14 13:58:26,057 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 13:58:26,059 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2022-10-14 13:58:26,061 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json"]
+2022-10-14 13:58:26,065 INFO     root            Display format: "default json"
+2022-10-14 13:58:26,065 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "hob",
+    "properties": {
+      "compute": {
+        "region": "europe-west1",
+        "zone": "europe-west1-b"
+      },
+      "core": {
+        "account": "marlonlede@thesting.com",
+        "disable_usage_reporting": "True",
+        "project": "hob-webshop"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.a0Aa4xrXOlfJcvbFxZkA1pYqCjR5Lccgy9LyRiEjQvTFtHH0_gJHZ4XS2tSlDvLnCn3KhGzy5oawMWM1heacVapTLvFkFzpG5HCVvfyK5he3k2ad_zx-Hz6Z-ucmuUDvLGLgcbYgywxNbf9iYDbi3HuCDKuM0vkaCwBLmUaCgYKATASARMSFQEjDvL9Edpk-QXxeydNmcXCK7_V4A0171",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1NTEwNGEzN2ZhOTAzZWQ4MGM1NzE0NWVjOWU4M2VkYjI5YjBjNDUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAyMzcwNjY4MDE5MzE2ODk1Nzc2IiwiaGQiOiJ0aGVzdGluZy5jb20iLCJlbWFpbCI6Im1hcmxvbmxlZGVAdGhlc3RpbmcuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJBbFFISVNmY3lXOU9KbDdyYnFnT2dBIiwiaWF0IjoxNjY1NzQ4NjE4LCJleHAiOjE2NjU3NTIyMTh9.RzMGnE8eJH-pKWYVyaAABQ4bzsH7W3drA0_fOWR-rcbhrXgKhhnPlHiRtcYh0LKRXeextu2XmQTJ0aQVyU26OtmgdG4m5B0U2RYOtw2GBjeJHKHprPTcU_zoEd3-90UX72fEC2z-jpXud2qpVPT0qpGxBLiwDUywMA4wsnl1hbpFlfQV8rvEit7ehXg7StZI-16xN33ZGYMwDNItqj5Hpbb4OOlyi7NbMUvsnSxaDD4r0HernSLDDouSdGgDK8FP2zSVw8cL5Ly8u16HhrIDdTux7hh4DuC2Kz10WvqQvjF5vnLltNAmeVbZZ4vaNJ5RJ0i9GrilkSOu8q_Apt3r1A",
+    "token_expiry": "2022-10-14T12:56:57Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/Users/ledemn/.config/gcloud/config_sentinel"
+  }
+}
+2022-10-14 13:58:26,065 INFO     ___FILE_ONLY___ 
+

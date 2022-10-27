@@ -1,0 +1,604 @@
+2022-10-14 12:47:44,618 DEBUG    root            Running [gcloud] with arguments: [--help: "None"]
+2022-10-14 12:47:44,619 DEBUG    root            Loaded Command Group: ['gcloud', 'memcache']
+2022-10-14 12:47:44,620 DEBUG    root            Loaded Command Group: ['gcloud', 'network_security']
+2022-10-14 12:47:44,658 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/interactive]
+2022-10-14 12:47:44,659 DEBUG    root            Loaded Command Group: ['gcloud', 'policy_troubleshoot']
+2022-10-14 12:47:44,660 DEBUG    root            Loaded Command Group: ['gcloud', 'ai']
+2022-10-14 12:47:44,662 DEBUG    root            Loaded Command Group: ['gcloud', 'asset']
+2022-10-14 12:47:44,663 DEBUG    root            Loaded Command Group: ['gcloud', 'kms']
+2022-10-14 12:47:44,665 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/dlp]
+2022-10-14 12:47:44,665 DEBUG    root            Loaded Command Group: ['gcloud', 'topic']
+2022-10-14 12:47:44,666 DEBUG    root            Loaded Command Group: ['gcloud', 'service_directory']
+2022-10-14 12:47:44,668 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/source_manager]
+2022-10-14 12:47:44,668 DEBUG    root            Loaded Command Group: ['gcloud', 'builds']
+2022-10-14 12:47:44,670 DEBUG    root            Loaded Command Group: ['gcloud', 'transfer']
+2022-10-14 12:47:44,671 DEBUG    root            Loaded Command Group: ['gcloud', 'billing']
+2022-10-14 12:47:44,687 DEBUG    root            Loaded Command Group: ['gcloud', 'ml_engine']
+2022-10-14 12:47:44,688 DEBUG    root            Loaded Command Group: ['gcloud', 'database_migration']
+2022-10-14 12:47:44,689 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/blueprints]
+2022-10-14 12:47:44,689 DEBUG    root            Loaded Command Group: ['gcloud', 'certificate_manager']
+2022-10-14 12:47:44,690 DEBUG    root            Loaded Command Group: ['gcloud', 'secrets']
+2022-10-14 12:47:44,691 DEBUG    root            Loaded Command Group: ['gcloud', 'tasks']
+2022-10-14 12:47:44,692 DEBUG    root            Loaded Command Group: ['gcloud', 'filestore']
+2022-10-14 12:47:44,695 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 12:47:44,698 DEBUG    root            Loaded Command Group: ['gcloud', 'info']
+2022-10-14 12:47:44,700 DEBUG    root            Loaded Command Group: ['gcloud', 'app']
+2022-10-14 12:47:44,701 DEBUG    root            Loaded Command Group: ['gcloud', 'organizations']
+2022-10-14 12:47:44,702 DEBUG    root            Loaded Command Group: ['gcloud', 'deploy']
+2022-10-14 12:47:44,703 DEBUG    root            Loaded Command Group: ['gcloud', 'bms']
+2022-10-14 12:47:44,704 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/trace]
+2022-10-14 12:47:44,705 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/web_security_scanner]
+2022-10-14 12:47:44,705 DEBUG    root            Loaded Command Group: ['gcloud', 'meta']
+2022-10-14 12:47:44,706 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/network_actions]
+2022-10-14 12:47:44,706 DEBUG    root            Loaded Command Group: ['gcloud', 'privateca']
+2022-10-14 12:47:44,708 DEBUG    root            Loaded Command Group: ['gcloud', 'access_approval']
+2022-10-14 12:47:44,709 DEBUG    root            Loaded Command Group: ['gcloud', 'recommender']
+2022-10-14 12:47:44,711 DEBUG    root            Loaded Command Group: ['gcloud', 'metastore']
+2022-10-14 12:47:44,713 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/error_reporting]
+2022-10-14 12:47:44,713 DEBUG    root            Loaded Command Group: ['gcloud', 'run']
+2022-10-14 12:47:44,714 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/workstations]
+2022-10-14 12:47:44,714 DEBUG    root            Loaded Command Group: ['gcloud', 'assured']
+2022-10-14 12:47:44,715 DEBUG    root            Loaded Command Group: ['gcloud', 'batch']
+2022-10-14 12:47:44,716 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/resource_config]
+2022-10-14 12:47:44,716 DEBUG    root            Loaded Command Group: ['gcloud', 'iot']
+2022-10-14 12:47:44,717 DEBUG    root            Loaded Command Group: ['gcloud', 'services']
+2022-10-14 12:47:44,719 DEBUG    root            Loaded Command Group: ['gcloud', 'artifacts']
+2022-10-14 12:47:44,720 DEBUG    root            Loaded Command Group: ['gcloud', 'pubsub']
+2022-10-14 12:47:44,721 DEBUG    root            Loaded Command Group: ['gcloud', 'healthcare']
+2022-10-14 12:47:44,722 DEBUG    root            Loaded Command Group: ['gcloud', 'apigee']
+2022-10-14 12:47:44,723 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/microservices]
+2022-10-14 12:47:44,723 DEBUG    root            Loaded Command Group: ['gcloud', 'essential_contacts']
+2022-10-14 12:47:44,724 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/remote_build_execution]
+2022-10-14 12:47:44,724 DEBUG    root            Loaded Command Group: ['gcloud', 'identity']
+2022-10-14 12:47:44,726 DEBUG    root            Loaded Command Group: ['gcloud', 'debug']
+2022-10-14 12:47:44,729 DEBUG    root            Loaded Command Group: ['gcloud', 'help']
+2022-10-14 12:47:44,731 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/commerce_procurement]
+2022-10-14 12:47:44,731 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/media]
+2022-10-14 12:47:44,732 DEBUG    root            Loaded Command Group: ['gcloud', 'bigtable']
+2022-10-14 12:47:44,733 DEBUG    root            Loaded Command Group: ['gcloud', 'anthos']
+2022-10-14 12:47:44,734 DEBUG    root            Loaded Command Group: ['gcloud', 'network_connectivity']
+2022-10-14 12:47:44,736 DEBUG    root            Loaded Command Group: ['gcloud', 'docker']
+2022-10-14 12:47:44,737 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2022-10-14 12:47:44,738 DEBUG    root            Loaded Command Group: ['gcloud', 'cheat_sheet']
+2022-10-14 12:47:44,739 DEBUG    root            Loaded Command Group: ['gcloud', 'org_policies']
+2022-10-14 12:47:44,740 DEBUG    root            Loaded Command Group: ['gcloud', 'sql']
+2022-10-14 12:47:44,741 DEBUG    root            Loaded Command Group: ['gcloud', 'ai_platform']
+2022-10-14 12:47:44,742 DEBUG    root            Loaded Command Group: ['gcloud', 'monitoring']
+2022-10-14 12:47:44,744 DEBUG    root            Loaded Command Group: ['gcloud', 'ids']
+2022-10-14 12:47:44,745 DEBUG    root            Loaded Command Group: ['gcloud', 'firebase']
+2022-10-14 12:47:44,746 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/runtime_config]
+2022-10-14 12:47:44,747 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/lifesciences]
+2022-10-14 12:47:44,747 DEBUG    root            Loaded Command Group: ['gcloud', 'edge_cache']
+2022-10-14 12:47:44,748 DEBUG    root            Loaded Command Group: ['gcloud', 'dataproc']
+2022-10-14 12:47:44,749 DEBUG    root            Loaded Command Group: ['gcloud', 'dataflow']
+2022-10-14 12:47:44,750 DEBUG    root            Loaded Command Group: ['gcloud', 'composer']
+2022-10-14 12:47:44,751 DEBUG    root            Loaded Command Group: ['gcloud', 'feedback']
+2022-10-14 12:47:44,752 DEBUG    root            Loaded Command Group: ['gcloud', 'domains']
+2022-10-14 12:47:44,753 DEBUG    root            Loaded Command Group: ['gcloud', 'datastream']
+2022-10-14 12:47:44,754 DEBUG    root            Loaded Command Group: ['gcloud', 'ml']
+2022-10-14 12:47:44,757 DEBUG    root            Loaded Command Group: ['gcloud', 'survey']
+2022-10-14 12:47:44,800 DEBUG    root            Loaded Command Group: ['gcloud', 'compute']
+2022-10-14 12:47:44,803 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2022-10-14 12:47:44,805 DEBUG    root            Loaded Command Group: ['gcloud', 'recaptcha']
+2022-10-14 12:47:44,806 DEBUG    root            Loaded Command Group: ['gcloud', 'redis']
+2022-10-14 12:47:44,807 DEBUG    root            Loaded Command Group: ['gcloud', 'version']
+2022-10-14 12:47:44,824 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/events]
+2022-10-14 12:47:44,825 DEBUG    root            Loaded Command Group: ['gcloud', 'data_catalog']
+2022-10-14 12:47:44,827 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/code]
+2022-10-14 12:47:44,827 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/data_fusion]
+2022-10-14 12:47:44,828 DEBUG    root            Loaded Command Group: ['gcloud', 'vmware']
+2022-10-14 12:47:44,829 DEBUG    root            Loaded Command Group: ['gcloud', 'workflows']
+2022-10-14 12:47:44,831 DEBUG    root            Loaded Command Group: ['gcloud', 'endpoints']
+2022-10-14 12:47:44,832 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/publicca]
+2022-10-14 12:47:44,832 DEBUG    root            Loaded Command Group: ['gcloud', 'resource_settings']
+2022-10-14 12:47:44,833 DEBUG    root            Loaded Command Group: ['gcloud', 'dns']
+2022-10-14 12:47:44,835 DEBUG    root            Loaded Command Group: ['gcloud', 'projects']
+2022-10-14 12:47:44,836 DEBUG    root            Loaded Command Group: ['gcloud', 'scheduler']
+2022-10-14 12:47:44,838 DEBUG    root            Loaded Command Group: ['gcloud', 'functions']
+2022-10-14 12:47:44,840 DEBUG    root            Loaded Command Group: ['gcloud', 'access_context_manager']
+2022-10-14 12:47:44,841 DEBUG    root            Loaded Command Group: ['gcloud', 'transcoder']
+2022-10-14 12:47:44,842 DEBUG    root            Loaded Command Group: ['gcloud', 'notebooks']
+2022-10-14 12:47:44,843 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/beyondcorp]
+2022-10-14 12:47:44,845 DEBUG    root            Loaded Command Group: ['gcloud', 'init']
+2022-10-14 12:47:44,846 DEBUG    root            Loaded Command Group: ['gcloud', 'dataplex']
+2022-10-14 12:47:44,847 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/genomics]
+2022-10-14 12:47:44,848 DEBUG    root            Loaded Command Group: ['gcloud', 'api_gateway']
+2022-10-14 12:47:44,849 DEBUG    root            Loaded Command Group: ['gcloud', 'firestore']
+2022-10-14 12:47:44,850 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/alloydb]
+2022-10-14 12:47:44,851 DEBUG    root            Loaded Command Group: ['gcloud', 'policy_intelligence']
+2022-10-14 12:47:44,852 DEBUG    root            Loaded Command Group: ['gcloud', 'datastore']
+2022-10-14 12:47:44,853 DEBUG    root            Loaded Command Group: ['gcloud', 'cloud_shell']
+2022-10-14 12:47:44,854 DEBUG    root            Loaded Command Group: ['gcloud', 'active_directory']
+2022-10-14 12:47:44,855 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/dialogflow]
+2022-10-14 12:47:44,856 DEBUG    root            Loaded Command Group: ['gcloud', 'emulators']
+2022-10-14 12:47:44,857 DEBUG    root            Loaded Command Group: ['gcloud', 'workspace_add_ons']
+2022-10-14 12:47:44,858 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/bq]
+2022-10-14 12:47:44,858 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/kuberun]
+2022-10-14 12:47:44,859 DEBUG    root            Loaded Command Group: ['gcloud', 'spanner']
+2022-10-14 12:47:44,860 DEBUG    root            Loaded Command Group: ['gcloud', 'deployment_manager']
+2022-10-14 12:47:44,861 DEBUG    root            Loaded Command Group: ['gcloud', 'iam']
+2022-10-14 12:47:44,863 DEBUG    root            Loaded Command Group: ['gcloud', 'resource_manager']
+2022-10-14 12:47:44,864 DEBUG    root            Loaded Command Group: ['gcloud', 'network_management']
+2022-10-14 12:47:44,865 DEBUG    root            Loaded Command Group: ['gcloud', 'scc']
+2022-10-14 12:47:44,866 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/datapipelines]
+2022-10-14 12:47:44,867 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/immersive_stream]
+2022-10-14 12:47:44,867 DEBUG    root            Loaded Command Group: ['gcloud', 'iap']
+2022-10-14 12:47:44,868 DEBUG    root            Loaded Command Group: ['gcloud', 'source']
+2022-10-14 12:47:44,869 DEBUG    root            Loaded Command Group: ['gcloud', 'logging']
+2022-10-14 12:47:44,871 DEBUG    root            Loaded Command Group: ['gcloud', 'storage']
+2022-10-14 12:47:44,872 DEBUG    root            Loaded Command Group: ['gcloud', 'edge_cloud']
+2022-10-14 12:47:44,873 DEBUG    root            Loaded Command Group: ['gcloud', 'network_services']
+2022-10-14 12:47:44,874 DEBUG    root            No implementation for release track [GA] for element: [/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/terraform]
+2022-10-14 12:47:44,875 DEBUG    root            Loaded Command Group: ['gcloud', 'game']
+2022-10-14 12:47:44,876 DEBUG    root            Loaded Command Group: ['gcloud', 'eventarc']
+2022-10-14 12:47:44,889 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2022-10-14 12:47:44,890 DEBUG    root            Loaded Command Group: ['gcloud', 'topic', 'flags_file']
+2022-10-14 12:47:44,895 DEBUG    root            Loaded Command Group: ['gcloud', 'topic', 'formats']
+2022-10-14 12:47:44,897 DEBUG    root            Loaded Command Group: ['gcloud', 'topic', 'configurations']
+2022-10-14 12:47:44,921 INFO     ___FILE_ONLY___ [m[1mNAME[m
+    gcloud - manage Google Cloud resources and developer workflow
+
+[m[1mSYNOPSIS[m
+    [1mgcloud[m [4mGROUP[m | [4mCOMMAND[m [[1m--account[m=[4mACCOUNT[m]
+        [[1m--billing-project[m=[4mBILLING_PROJECT[m] [[1m--configuration[m=[4mCONFIGURATION[m]
+        [[1m--flags-file[m=[4mYAML_FILE[m] [[1m--flatten[m=[[4mKEY[m,...]] [[1m--format[m=[4mFORMAT[m]
+        [[1m--help[m] [[1m--project[m=[4mPROJECT_ID[m] [[1m--quiet[m, [1m-q[m]
+        [[1m--verbosity[m=[4mVERBOSITY[m; default="warning"] [[1m--version[m, [1m-v[m] [[1m-h[m]
+        [[1m--access-token-file[m=[4mACCESS_TOKEN_FILE[m]
+        [[1m--impersonate-service-account[m=[4mSERVICE_ACCOUNT_EMAILS[m] [[1m--log-http[m]
+        [[1m--trace-token[m=[4mTRACE_TOKEN[m] [[1m--no-user-output-enabled[m]
+
+[m[1mDESCRIPTION[m
+    The [1mgcloud[m CLI manages authentication, local configuration, developer
+    workflow, and interactions with the Google Cloud APIs.
+
+    For a quick introduction to the [1mgcloud[m CLI, a list of commonly used
+    commands, and a look at how these commands are structured, run [1mgcloud
+    cheat-sheet[m or see the `gcloud` CLI cheat sheet
+    (https://cloud.google.com/sdk/docs/cheatsheet).
+
+[m[1mGLOBAL FLAGS[m
+     [1m--account[m=[4mACCOUNT[m
+        Google Cloud user account to use for invocation. Overrides the default
+        [1mcore/account[m property value for this command invocation.
+
+     [1m--billing-project[m=[4mBILLING_PROJECT[m
+        The Google Cloud project that will be charged quota for operations
+        performed in [1mgcloud[m. If you need to operate on one project, but need
+        quota against a different project, you can use this flag to specify the
+        billing project. If both [1mbilling/quota_project[m and [1m--billing-project[m
+        are specified, [1m--billing-project[m takes precedence. Run [1m$ gcloud config
+        set --help[m to see more information about [1mbilling/quota_project[m.
+
+     [1m--configuration[m=[4mCONFIGURATION[m
+        The configuration to use for this command invocation. For more
+        information on how to use configurations, run: [1mgcloud topic
+        configurations[m. You can also use the CLOUDSDK_ACTIVE_CONFIG_NAME
+        environment variable to set the equivalent of this flag for a terminal
+        session.
+
+     [1m--flags-file[m=[4mYAML_FILE[m
+        A YAML or JSON file that specifies a [1m--flag[m:[1mvalue[m dictionary. Useful
+        for specifying complex flag values with special characters that work
+        with any command interpreter. Additionally, each [1m--flags-file[m arg is
+        replaced by its constituent flags. See $ gcloud topic flags-file for
+        more information.
+
+     [1m--flatten[m=[[4mKEY[m,...]
+        Flatten [4mname[m[] output resource slices in [4mKEY[m into separate records for
+        each item in each slice. Multiple keys and slices may be specified.
+        This also flattens keys for [1m--format[m and [1m--filter[m. For example,
+        [1m--flatten=abc.def[m flattens [1mabc.def[].ghi[m references to [1mabc.def.ghi[m. A
+        resource record containing [1mabc.def[][m with N elements will expand to N
+        records in the flattened output. This allows us to specify what
+        [1mresource-key[m the [1mfilter[m will operate on. This flag interacts with other
+        flags that are applied in this order: [1m--flatten[m, [1m--sort-by[m, [1m--filter[m,
+        [1m--limit[m.
+
+     [1m--format[m=[4mFORMAT[m
+        Set the format for printing command output resources. The default is a
+        command-specific human-friendly output format. The supported formats
+        are: [1mconfig[m, [1mcsv[m, [1mdefault[m, [1mdiff[m, [1mdisable[m, [1mflattened[m, [1mget[m, [1mjson[m, [1mlist[m,
+        [1mmulti[m, [1mnone[m, [1mobject[m, [1mtable[m, [1mtext[m, [1mvalue[m, [1myaml[m. For more details run $
+        gcloud topic formats.
+
+     [1m--help[m
+        Display detailed help.
+
+     [1m--project[m=[4mPROJECT_ID[m
+        The Google Cloud project ID to use for this invocation. If omitted,
+        then the current project is assumed; the current project can be listed
+        using [1mgcloud config list --format='text(core.project)'[m and can be set
+        using [1mgcloud config set project PROJECTID[m.
+
+        [1m--project[m and its fallback [1mcore/project[m property play two roles in the
+        invocation. It specifies the project of the resource to operate on. It
+        also specifies the project for API enablement check, quota, and
+        billing. To specify a different project for quota and billing, use
+        [1m--billing-project[m or [1mbilling/quota_project[m property.
+
+     [1m--quiet[m, [1m-q[m
+        Disable all interactive prompts when running [1mgcloud[m commands. If input
+        is required, defaults will be used, or an error will be raised.
+
+        Overrides the default core/disable_prompts property value for this
+        command invocation. This is equivalent to setting the environment
+        variable [1mCLOUDSDK_CORE_DISABLE_PROMPTS[m to 1.
+
+     [1m--verbosity[m=[4mVERBOSITY[m; default="warning"
+        Override the default verbosity for this command. Overrides the default
+        [1mcore/verbosity[m property value for this command invocation. [4mVERBOSITY[m
+        must be one of: [1mdebug[m, [1minfo[m, [1mwarning[m, [1merror[m, [1mcritical[m, [1mnone[m.
+
+     [1m--version[m, [1m-v[m
+        Print version information and exit. This flag is only available at the
+        global level.
+
+     [1m-h[m
+        Print a summary help and exit.
+
+[m[1mOTHER FLAGS[m
+     [1m--access-token-file[m=[4mACCESS_TOKEN_FILE[m
+        A file path to read the access token. Use this flag to authenticate
+        [1mgcloud[m with an access token. The credentials of the active account (if
+        exists) will be ignored. The file should only contain an access token
+        with no other information. Overrides the default [1mauth/access_token_file[m
+        property value for this command invocation.
+
+     [1m--impersonate-service-account[m=[4mSERVICE_ACCOUNT_EMAILS[m
+        For this [1mgcloud[m invocation, all API requests will be made as the given
+        service account or target service account in an impersonation
+        delegation chain instead of the currently selected account. You can
+        specify either a single service account as the impersonator, or a
+        comma-separated list of service accounts to create an impersonation
+        delegation chain. The impersonation is done without needing to create,
+        download, and activate a key for the service account or accounts.
+
+        In order to make API requests as a service account, your currently
+        selected account must have an IAM role that includes the
+        [1miam.serviceAccounts.getAccessToken[m permission for the service account
+        or accounts.
+
+        The [1mroles/iam.serviceAccountTokenCreator[m role has the
+        [1miam.serviceAccounts.getAccessToken permission[m. You can also create a
+        custom role.
+
+        You can specify a list of service accounts, separated with commas. This
+        creates an impersonation delegation chain in which each service account
+        delegates its permissions to the next service account in the chain.
+        Each service account in the list must have the
+        [1mroles/iam.serviceAccountTokenCreator[m role on the next service account
+        in the list. For example, when [1m--impersonate-service-account=[m
+        [1m[1;4mSERVICE_ACCOUNT_1[1m[m,[1m[1;4mSERVICE_ACCOUNT_2[1m[m, the active account must have the
+        [1mroles/iam.serviceAccountTokenCreator[m role on [1m[1;4mSERVICE_ACCOUNT_1[1m[m, which
+        must have the [1mroles/iam.serviceAccountTokenCreator[m role on
+        [1m[1;4mSERVICE_ACCOUNT_2[1m[m. [1m[1;4mSERVICE_ACCOUNT_1[1m[m is the impersonated service
+        account and [1m[1;4mSERVICE_ACCOUNT_2[1m[m is the delegate.
+
+        Overrides the default [1mauth/impersonate_service_account[m property value
+        for this command invocation.
+
+     [1m--log-http[m
+        Log all HTTP server requests and responses to stderr. Overrides the
+        default [1mcore/log_http[m property value for this command invocation.
+
+     [1m--trace-token[m=[4mTRACE_TOKEN[m
+        Token used to route traces of service requests for investigation of
+        issues. Overrides the default [1mcore/trace_token[m property value for this
+        command invocation.
+
+     [1m--user-output-enabled[m
+        Print user intended output to the console. Overrides the default
+        [1mcore/user_output_enabled[m property value for this command invocation.
+        Use [1m--no-user-output-enabled[m to disable.
+
+[m[1mGROUPS[m
+    [1m[1;4mGROUP[1m[m is one of the following:
+
+     [1maccess-approval[m
+        Manage Access Approval requests and settings.
+
+     [1maccess-context-manager[m
+        Manage Access Context Manager resources.
+
+     [1mactive-directory[m
+        Manage Managed Microsoft AD resources.
+
+     [1mai[m
+        Manage entities in Vertex AI.
+
+     [1mai-platform[m
+        Manage AI Platform jobs and models.
+
+     [1manthos[m
+        Anthos command Group.
+
+     [1mapi-gateway[m
+        Manage Cloud API Gateway resources.
+
+     [1mapigee[m
+        Manage Apigee resources.
+
+     [1mapp[m
+        Manage your App Engine deployments.
+
+     [1martifacts[m
+        Manage Artifact Registry resources.
+
+     [1masset[m
+        Manage the Cloud Asset Inventory.
+
+     [1massured[m
+        Read and manipulate Assured Workloads data controls.
+
+     [1mauth[m
+        Manage oauth2 credentials for the Google Cloud CLI.
+
+     [1mbatch[m
+        Manage Batch resources.
+
+     [1mbigtable[m
+        Manage your Cloud Bigtable storage.
+
+     [1mbilling[m
+        Manage billing accounts and associate them with projects.
+
+     [1mbms[m
+        Manage Bare Metal Solution resources.
+
+     [1mbuilds[m
+        Create and manage builds for Google Cloud Build.
+
+     [1mcertificate-manager[m
+        Manage SSL certificates for your Google Cloud projects.
+
+     [1mcloud-shell[m
+        Manage Google Cloud Shell.
+
+     [1mcomponents[m
+        List, install, update, or remove Google Cloud CLI components.
+
+     [1mcomposer[m
+        Create and manage Cloud Composer Environments.
+
+     [1mcompute[m
+        Create and manipulate Compute Engine resources.
+
+     [1mconfig[m
+        View and edit Google Cloud CLI properties.
+
+     [1mcontainer[m
+        Deploy and manage clusters of machines for running containers.
+
+     [1mdata-catalog[m
+        Manage Data Catalog resources.
+
+     [1mdatabase-migration[m
+        Manage Database Migration Service resources.
+
+     [1mdataflow[m
+        Manage Google Cloud Dataflow resources.
+
+     [1mdataplex[m
+        Manage Dataplex resources.
+
+     [1mdataproc[m
+        Create and manage Google Cloud Dataproc clusters and jobs.
+
+     [1mdatastore[m
+        Manage your Cloud Datastore resources.
+
+     [1mdatastream[m
+        Manage Cloud Datastream resources.
+
+     [1mdebug[m
+        Commands for interacting with the Cloud Debugger.
+
+     [1mdeploy[m
+        Create and manage Google Cloud Deploy resources.
+
+     [1mdeployment-manager[m
+        Manage deployments of cloud resources.
+
+     [1mdns[m
+        Manage your Cloud DNS managed-zones and record-sets.
+
+     [1mdomains[m
+        Manage domains for your Google Cloud projects.
+
+     [1medge-cloud[m
+        Manage edge-cloud resources.
+
+     [1memulators[m
+        Set up your local development environment using emulators.
+
+     [1mendpoints[m
+        Create, enable and manage API services.
+
+     [1messential-contacts[m
+        Manage Essential Contacts.
+
+     [1meventarc[m
+        Manage Eventarc resources.
+
+     [1mfilestore[m
+        Create and manipulate Filestore resources.
+
+     [1mfirebase[m
+        Work with Google Firebase.
+
+     [1mfirestore[m
+        Manage your Cloud Firestore resources.
+
+     [1mfunctions[m
+        Manage Google Cloud Functions.
+
+     [1mgame[m
+        Managed Cloud Game Services.
+
+     [1mhealthcare[m
+        Manage Cloud Healthcare resources.
+
+     [1miam[m
+        Manage IAM service accounts and keys.
+
+     [1miap[m
+        Manage IAP policies.
+
+     [1midentity[m
+        Manage Cloud Identity Groups and Memberships resources.
+
+     [1mids[m
+        Manage Cloud IDS.
+
+     [1miot[m
+        Manage Cloud IoT resources.
+
+     [1mkms[m
+        Manage cryptographic keys in the cloud.
+
+     [1mlogging[m
+        Manage Cloud Logging.
+
+     [1mmemcache[m
+        Manage Cloud Memorystore Memcached resources.
+
+     [1mmetastore[m
+        Manage Dataproc Metastore resources.
+
+     [1mml[m
+        Use Google Cloud machine learning capabilities.
+
+     [1mml-engine[m
+        Manage AI Platform jobs and models.
+
+     [1mmonitoring[m
+        Manage Cloud Monitoring dashboards.
+
+     [1mnetwork-connectivity[m
+        Manage Network Connectivity Center resources.
+
+     [1mnetwork-management[m
+        Manage Network Management resources.
+
+     [1mnetwork-security[m
+        Manage Network Security resources.
+
+     [1mnetwork-services[m
+        Manage Network Services resources.
+
+     [1mnotebooks[m
+        Notebooks Command Group.
+
+     [1morg-policies[m
+        Create and manage Organization Policies.
+
+     [1morganizations[m
+        Create and manage Google Cloud Platform Organizations.
+
+     [1mpolicy-intelligence[m
+        A platform to help better understand, use and manage policies at scale.
+
+     [1mpolicy-troubleshoot[m
+        Troubleshoot Google Cloud Platform policies.
+
+     [1mprivateca[m
+        Manage private Certificate Authorities on Google Cloud.
+
+     [1mprojects[m
+        Create and manage project access policies.
+
+     [1mpubsub[m
+        Manage Cloud Pub/Sub topics, subscriptions, and snapshots.
+
+     [1mrecaptcha[m
+        Manage reCAPTCHA Enterprise Keys.
+
+     [1mrecommender[m
+        Manage Cloud recommendations and recommendation rules.
+
+     [1mredis[m
+        Manage Cloud Memorystore Redis resources.
+
+     [1mresource-manager[m
+        Manage Cloud Resources.
+
+     [1mresource-settings[m
+        Create and manage Resource Settings.
+
+     [1mrun[m
+        Manage your Cloud Run applications.
+
+     [1mscc[m
+        Manage Cloud SCC resources.
+
+     [1mscheduler[m
+        Manage Cloud Scheduler jobs and schedules.
+
+     [1msecrets[m
+        Manage secrets on Google Cloud.
+
+     [1mservice-directory[m
+        Command groups for Service Directory.
+
+     [1mservices[m
+        List, enable and disable APIs and services.
+
+     [1msource[m
+        Cloud git repository commands.
+
+     [1mspanner[m
+        Command groups for Cloud Spanner.
+
+     [1msql[m
+        Create and manage Google Cloud SQL databases.
+
+     [1mstorage[m
+        Create and manage Cloud Storage buckets and objects.
+
+     [1mtasks[m
+        Manage Cloud Tasks queues and tasks.
+
+     [1mtopic[m
+        gcloud supplementary help.
+
+     [1mtranscoder[m
+        Manage Transcoder jobs and job templates.
+
+     [1mtransfer[m
+        Manage Transfer Service jobs, operations, and agents.
+
+     [1mworkflows[m
+        Manage your Cloud Workflows resources.
+
+     [1mworkspace-add-ons[m
+        Manage Google Workspace Add-ons resources.
+
+[m[1mCOMMANDS[m
+    [1m[1;4mCOMMAND[1m[m is one of the following:
+
+     [1mcheat-sheet[m
+        Display gcloud cheat sheet.
+
+     [1mdocker[m
+        [1m(DEPRECATED)[m Enable Docker CLI access to Google Container Registry.
+
+     [1mfeedback[m
+        Provide feedback to the Google Cloud CLI team.
+
+     [1mhelp[m
+        Search gcloud help text.
+
+     [1minfo[m
+        Display information about the current gcloud environment.
+
+     [1minit[m
+        Initialize or reinitialize gcloud.
+
+     [1msurvey[m
+        Invoke a customer satisfaction survey for Google Cloud CLI.
+
+     [1mversion[m
+        Print version information for Google Cloud CLI components.
+[m
+2022-10-14 12:49:57,762 DEBUG    root            Metrics reporting process started...

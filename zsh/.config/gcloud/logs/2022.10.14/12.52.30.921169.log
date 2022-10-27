@@ -1,0 +1,27 @@
+2022-10-14 12:52:30,922 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 12:52:30,925 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2022-10-14 12:52:30,927 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json"]
+2022-10-14 12:52:30,942 INFO     root            Display format: "default json"
+2022-10-14 12:52:30,943 INFO     ___FILE_ONLY___ {
+  "configuration": {
+    "active_configuration": "default",
+    "properties": {
+      "core": {
+        "account": "marlonlede@thesting.com",
+        "disable_usage_reporting": "False",
+        "project": "hob-webshop"
+      }
+    }
+  },
+  "credential": {
+    "access_token": "ya29.a0Aa4xrXMqAeBwj91nTZh28PPdlECOXgbPU2bz8rDP8aedVYO-plKS-3twVgKSX5feM2B4EoSRG5T5_sEGwW6BD5eLFytNcJ1P2_g1IYdgPY8uMkpM9tCiRUeEIS_5D_cYuxJw1dP4f1eb98OloI9JoIMXnOquPHq7A1nq2AYaCgYKATASARASFQEjDvL9LpSzvyOVKiRjtD3qlzW6oA0174",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1NTEwNGEzN2ZhOTAzZWQ4MGM1NzE0NWVjOWU4M2VkYjI5YjBjNDUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAyMzcwNjY4MDE5MzE2ODk1Nzc2IiwiaGQiOiJ0aGVzdGluZy5jb20iLCJlbWFpbCI6Im1hcmxvbmxlZGVAdGhlc3RpbmcuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiI5bXlNVXFBN0kzeEx6Ym54Z2N3enhBIiwiaWF0IjoxNjY1NzQ0MzgwLCJleHAiOjE2NjU3NDc5ODB9.QX9WdlsC1Nba0BcP6OrR25RlLTrU9A8bvd_A9EBkOp-5fuCbSZgUPb-yeoMlom6nllewyEHAQQUEywRpdCy9Yqj07YOzKHm2Dyk-Zj7xm9dFA1O2hmwr1IxK7c9DLWh5kDzDZSPjStxn4CSdoYE0AoxSpy5QXqMEoaCqUb4AzUymBnA63WVarWH-r8BP-DX7e04fnXGSb1mjEkg-E-m7mdCPIZBiLBy87Py5mQjdnn-BFBWPUyXEaKBegVO1NoVSkCD17ceoTpO4SjHLwUNfvKnRdQXPeFi7_ccSWTXhDXMeH-e1BPWo2GjJ6TXUonswvzpRwM42jW2Eian1CIvYfw",
+    "token_expiry": "2022-10-14T11:46:19Z"
+  },
+  "sentinels": {
+    "config_sentinel": "/Users/ledemn/.config/gcloud/config_sentinel"
+  }
+}
+2022-10-14 12:52:30,943 INFO     ___FILE_ONLY___ 
+
+2022-10-14 12:52:30,953 DEBUG    root            Metrics reporting process started...

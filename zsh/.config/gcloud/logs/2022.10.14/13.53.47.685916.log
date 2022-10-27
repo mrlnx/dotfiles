@@ -1,0 +1,62 @@
+2022-10-14 13:53:47,686 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2022-10-14 13:53:47,688 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'list']
+2022-10-14 13:53:47,690 DEBUG    root            Running [gcloud.auth.list] with arguments: []
+2022-10-14 13:53:47,700 INFO     root            Display format: "    table[title='Credentialed Accounts'](
+        status.yesno(yes='*', no=''):label=ACTIVE,
+        account
+    )"
+2022-10-14 13:53:47,701 INFO     ___FILE_ONLY___                           Credentialed Accounts
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___ ACTIVE
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___   
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___ ACCOUNT
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___ 460119185213-compute@developer.gserviceaccount.com
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,702 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___ acc-design-system@hob-webshop.iam.gserviceaccount.com
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___ circleci-kubernetes-deploy@hob-webshop.iam.gserviceaccount.com
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___ design-system-poc@hob-test.iam.gserviceaccount.com
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,703 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___ haraldlede@gmail.com
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___ itsmarlonagain@gmail.com
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___ marlonlede@gmail.com
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,704 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ marlonlede@marlonlede.iam.gserviceaccount.com
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ *
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___        
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ marlonlede@thesting.com
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___         
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ test-ds-service@ts-ecom-test-services-1d51.iam.gserviceaccount.com
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:47,705 INFO     ___FILE_ONLY___ 
+To set the active account, run:
+    $ gcloud config set account `ACCOUNT`
+
+
+2022-10-14 13:53:47,720 DEBUG    root            Metrics reporting process started...

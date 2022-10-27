@@ -1,0 +1,16 @@
+2022-10-14 13:57:45,476 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 13:57:45,477 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations']
+2022-10-14 13:57:45,478 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'create']
+2022-10-14 13:57:45,480 DEBUG    root            Running [gcloud.config.configurations.create] with arguments: [CONFIGURATION_NAME: "hob"]
+2022-10-14 13:57:45,480 DEBUG    root            (gcloud.config.configurations.create) Cannot create configuration [hob], it already exists.
+Traceback (most recent call last):
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 987, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 807, in Run
+    resources = command_instance.Run(args)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/config/configurations/create.py", line 61, in Run
+    named_configs.ConfigurationStore.CreateConfig(args.configuration_name)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/configurations/named_configs.py", line 237, in CreateConfig
+    .format(config_name))
+googlecloudsdk.core.configurations.named_configs.NamedConfigError: Cannot create configuration [hob], it already exists.
+2022-10-14 13:57:45,481 ERROR    root            (gcloud.config.configurations.create) Cannot create configuration [hob], it already exists.

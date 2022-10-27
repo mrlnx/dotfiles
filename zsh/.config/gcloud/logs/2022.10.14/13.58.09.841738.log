@@ -1,0 +1,7 @@
+2022-10-14 13:58:09,843 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 13:58:09,844 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations']
+2022-10-14 13:58:09,845 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'activate']
+2022-10-14 13:58:09,847 DEBUG    root            Running [gcloud.config.configurations.activate] with arguments: [CONFIGURATION_NAME: "hob"]
+2022-10-14 13:58:09,848 INFO     ___FILE_ONLY___ Activated [hob].
+
+2022-10-14 13:58:09,848 INFO     root            Display format: "none"

@@ -1,0 +1,73 @@
+2022-10-14 13:55:52,042 DEBUG    root            Loaded Command Group: ['gcloud', 'container', 'clusters']
+2022-10-14 13:55:52,044 DEBUG    root            Loaded Command Group: ['gcloud', 'container', 'clusters', 'get_credentials']
+2022-10-14 13:55:52,054 DEBUG    root            (gcloud.container.clusters.get-credentials) You do not currently have an active account selected.
+Please run:
+
+  $ gcloud auth login
+
+to obtain new credentials.
+
+If you have already logged in with a different account:
+
+    $ gcloud config set account ACCOUNT
+
+to select an already authenticated account to use.
+Traceback (most recent call last):
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/calliope/cli.py", line 987, in Execute
+    resources = calliope_command.Run(cli=self, args=args)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 802, in Run
+    self._parent_group.RunGroupFilter(tool_context, args)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 710, in RunGroupFilter
+    self._parent_group.RunGroupFilter(context, args)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/calliope/backend.py", line 711, in RunGroupFilter
+    self._common_type().Filter(context, args)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/surface/container/__init__.py", line 57, in Filter
+    context['api_adapter'] = api_adapter.NewAPIAdapter('v1')
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/api_lib/container/api_adapter.py", line 365, in NewAPIAdapter
+    return NewV1APIAdapter()
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/api_lib/container/api_adapter.py", line 369, in NewV1APIAdapter
+    return InitAPIAdapter('v1', V1Adapter)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/api_lib/container/api_adapter.py", line 391, in InitAPIAdapter
+    api_client = core_apis.GetClientInstance('container', api_version)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/api_lib/util/apis.py", line 267, in GetClientInstance
+    http_timeout_sec=http_timeout_sec)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/api_lib/util/apis_internal.py", line 172, in _GetClientInstance
+    timeout=http_timeout_sec if http_timeout_sec else 'unset')
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/transports.py", line 86, in GetApitoolsTransport
+    redact_request_body_reason=redact_request_body_reason)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/requests.py", line 82, in GetSession
+    allow_account_impersonation, True)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/requests.py", line 126, in WrapQuota
+    use_google_auth)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/transport.py", line 54, in QuotaProject
+    creds = store.LoadIfEnabled(allow_account_impersonation, use_google_auth)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/store.py", line 456, in LoadIfEnabled
+    use_google_auth=use_google_auth)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/store.py", line 569, in Load
+    with_access_token_cache=with_access_token_cache)
+  File "/Users/ledemn/Desktop/google-cloud-sdk/lib/googlecloudsdk/core/credentials/store.py", line 720, in _Load
+    named_configs.ActiveConfig(False).file_path)
+googlecloudsdk.core.credentials.exceptions.NoActiveAccountException: You do not currently have an active account selected.
+Please run:
+
+  $ gcloud auth login
+
+to obtain new credentials.
+
+If you have already logged in with a different account:
+
+    $ gcloud config set account ACCOUNT
+
+to select an already authenticated account to use.
+2022-10-14 13:55:52,057 ERROR    root            (gcloud.container.clusters.get-credentials) You do not currently have an active account selected.
+Please run:
+
+  $ gcloud auth login
+
+to obtain new credentials.
+
+If you have already logged in with a different account:
+
+    $ gcloud config set account ACCOUNT
+
+to select an already authenticated account to use.

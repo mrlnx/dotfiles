@@ -1,0 +1,260 @@
+2022-10-14 13:52:52,653 DEBUG    root            Loaded Command Group: ['gcloud', 'components']
+2022-10-14 13:52:52,659 DEBUG    root            Loaded Command Group: ['gcloud', 'components', 'install']
+2022-10-14 13:52:52,663 DEBUG    root            Running [gcloud.components.install] with arguments: [COMPONENT-IDS:1: "['kubectl']"]
+2022-10-14 13:52:52,714 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 13:52:52,789 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-v405.0.0.json HTTP/1.1" 200 203444
+2022-10-14 13:52:52,882 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,882 INFO     ___FILE_ONLY___ 
+Your current Google Cloud CLI version is: 405.0.0
+
+2022-10-14 13:52:52,882 INFO     ___FILE_ONLY___ Installing components from version: 405.0.0
+
+2022-10-14 13:52:52,883 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,886 INFO     ___FILE_ONLY___ ┌─────────────────────────────────────────────┐
+2022-10-14 13:52:52,886 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,886 INFO     ___FILE_ONLY___ │     These components will be installed.     │
+2022-10-14 13:52:52,886 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,886 INFO     ___FILE_ONLY___ ├────────────────────────┬─────────┬──────────┤
+2022-10-14 13:52:52,886 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ │          Name          │ Version │   Size   │
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ ├────────────────────────┼─────────┼──────────┤
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ gke-gcloud-auth-plugin
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___   0.3.0
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___  3.8 MiB
+2022-10-14 13:52:52,887 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ │
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ kubectl               
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ 1.22.14
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___  < 1 MiB
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ │
+2022-10-14 13:52:52,888 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ kubectl               
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ 1.22.14
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ │ 
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ 93.1 MiB
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___  
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ │
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ └────────────────────────┴─────────┴──────────┘
+2022-10-14 13:52:52,889 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,890 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:52:52,892 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 13:52:52,990 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/RELEASE_NOTES HTTP/1.1" 200 876953
+2022-10-14 13:52:53,126 INFO     ___FILE_ONLY___ For the latest full release notes, please visit:
+  https://cloud.google.com/sdk/release_notes
+
+
+2022-10-14 13:52:56,645 INFO     ___FILE_ONLY___ ╔════════════════════════════════════════════════════════════╗
+
+2022-10-14 13:52:56,646 INFO     ___FILE_ONLY___ ╠═ Creating update staging area                             ═╣
+
+2022-10-14 13:52:56,646 INFO     ___FILE_ONLY___ ╚
+2022-10-14 13:52:56,646 INFO     ___FILE_ONLY___ ══════
+2022-10-14 13:52:56,646 INFO     ___FILE_ONLY___ ══════
+2022-10-14 13:52:56,646 INFO     ___FILE_ONLY___ ══════
+2022-10-14 13:52:57,369 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:57,589 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:58,049 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:58,499 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:58,785 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:59,183 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:59,690 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:52:59,971 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:00,369 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:00,613 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:00,884 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:01,444 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:01,693 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:01,940 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:02,127 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:02,384 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:02,564 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:02,901 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:03,109 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:03,306 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:03,624 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:03,876 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:04,287 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:04,530 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:04,732 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:04,943 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:05,196 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:05,434 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:05,667 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:05,904 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:06,135 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:06,396 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:06,676 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:06,885 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:07,141 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:07,339 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:07,586 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:07,921 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:08,404 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:08,648 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:08,799 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:08,923 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:08,923 INFO     ___FILE_ONLY___ ╝
+2022-10-14 13:53:10,201 INFO     ___FILE_ONLY___ ╠════════════════════════════════════════════════════════════╣
+
+2022-10-14 13:53:10,201 INFO     ___FILE_ONLY___ ╠═ Installing: gke-gcloud-auth-plugin                       ═╣
+
+2022-10-14 13:53:10,201 INFO     ___FILE_ONLY___ ╚
+2022-10-14 13:53:10,204 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 13:53:10,342 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-gke-gcloud-auth-plugin-darwin-x86_64-20220812141601.tar.gz HTTP/1.1" 200 3966386
+2022-10-14 13:53:10,631 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,632 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,632 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,632 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,632 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,633 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,633 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,633 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,633 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,634 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,634 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,634 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,634 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,635 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,635 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,635 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,635 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,636 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,636 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,636 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,636 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,637 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,637 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,637 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,637 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,638 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,638 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,638 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,638 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,638 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:10,766 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-10-14 13:53:10,766 INFO     ___FILE_ONLY___ ╝
+2022-10-14 13:53:10,773 INFO     ___FILE_ONLY___ ╠════════════════════════════════════════════════════════════╣
+
+2022-10-14 13:53:10,773 INFO     ___FILE_ONLY___ ╠═ Installing: gke-gcloud-auth-plugin                       ═╣
+
+2022-10-14 13:53:10,773 INFO     ___FILE_ONLY___ ╚
+2022-10-14 13:53:10,776 INFO     ___FILE_ONLY___ ════════════════════════════════════════════════════════════
+2022-10-14 13:53:10,776 INFO     ___FILE_ONLY___ ╝
+2022-10-14 13:53:10,776 INFO     ___FILE_ONLY___ ╠════════════════════════════════════════════════════════════╣
+
+2022-10-14 13:53:10,777 INFO     ___FILE_ONLY___ ╠═ Installing: kubectl                                      ═╣
+
+2022-10-14 13:53:10,777 INFO     ___FILE_ONLY___ ╚
+2022-10-14 13:53:10,779 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 13:53:10,859 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-kubectl-20220930201803.tar.gz HTTP/1.1" 200 48204
+2022-10-14 13:53:10,885 INFO     ___FILE_ONLY___ ══════════
+2022-10-14 13:53:10,885 INFO     ___FILE_ONLY___ ══════════
+2022-10-14 13:53:10,885 INFO     ___FILE_ONLY___ ══════════
+2022-10-14 13:53:10,892 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-10-14 13:53:10,892 INFO     ___FILE_ONLY___ ╝
+2022-10-14 13:53:10,897 INFO     ___FILE_ONLY___ ╠════════════════════════════════════════════════════════════╣
+
+2022-10-14 13:53:10,898 INFO     ___FILE_ONLY___ ╠═ Installing: kubectl                                      ═╣
+
+2022-10-14 13:53:10,898 INFO     ___FILE_ONLY___ ╚
+2022-10-14 13:53:10,901 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 13:53:11,008 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components/google-cloud-sdk-kubectl-darwin-x86_64-20220923141408.tar.gz HTTP/1.1" 200 97570066
+2022-10-14 13:53:16,643 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,647 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,651 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,655 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,660 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,668 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,672 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,677 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,681 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,685 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,689 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,693 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,697 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,701 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,705 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,712 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,719 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,724 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,728 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,732 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,736 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,740 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,744 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,749 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,753 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,758 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,766 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,771 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,776 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:16,780 INFO     ___FILE_ONLY___ ═
+2022-10-14 13:53:18,454 INFO     ___FILE_ONLY___ ════
+2022-10-14 13:53:18,715 INFO     ___FILE_ONLY___ ════
+2022-10-14 13:53:18,994 INFO     ___FILE_ONLY___ ════
+2022-10-14 13:53:19,285 INFO     ___FILE_ONLY___ ═════
+2022-10-14 13:53:19,591 INFO     ___FILE_ONLY___ ════
+2022-10-14 13:53:19,925 INFO     ___FILE_ONLY___ ════
+2022-10-14 13:53:20,223 INFO     ___FILE_ONLY___ ═════
+2022-10-14 13:53:20,223 INFO     ___FILE_ONLY___ ╝
+2022-10-14 13:53:20,237 INFO     ___FILE_ONLY___ ╠════════════════════════════════════════════════════════════╣
+
+2022-10-14 13:53:20,237 INFO     ___FILE_ONLY___ ╠═ Creating backup and activating new installation          ═╣
+
+2022-10-14 13:53:20,237 INFO     ___FILE_ONLY___ ╚
+2022-10-14 13:53:20,237 DEBUG    root            Attempting to move directory [/Users/ledemn/Desktop/google-cloud-sdk] to [/Users/ledemn/Desktop/google-cloud-sdk.staging/.install/.backup]
+2022-10-14 13:53:20,238 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-10-14 13:53:20,238 DEBUG    root            Attempting to move directory [/Users/ledemn/Desktop/google-cloud-sdk.staging] to [/Users/ledemn/Desktop/google-cloud-sdk]
+2022-10-14 13:53:20,238 INFO     ___FILE_ONLY___ ══════════════════════════════
+2022-10-14 13:53:20,238 INFO     ___FILE_ONLY___ ╝
+
+2022-10-14 13:53:20,242 DEBUG    root            Updating notification cache...
+2022-10-14 13:53:20,244 INFO     ___FILE_ONLY___ 
+
+2022-10-14 13:53:20,244 INFO     ___FILE_ONLY___ Performing post processing steps...
+2022-10-14 13:53:20,244 DEBUG    root            Executing command: ['/Users/ledemn/.config/gcloud/virtenv/bin/python3', '/Users/ledemn/Desktop/google-cloud-sdk/lib/gcloud.py', 'components', 'post-process']
+2022-10-14 13:53:39,446 DEBUG    ___FILE_ONLY___ 
+2022-10-14 13:53:39,446 DEBUG    ___FILE_ONLY___ 
+2022-10-14 13:53:39,633 INFO     ___FILE_ONLY___ 
+Update done!
+
+
+2022-10-14 13:53:39,650 WARNING  root              There are other instances of Google Cloud tools on your system PATH.
+  Please remove the following to avoid confusion or accidental invocation:
+
+  /usr/local/Cellar/kubernetes-cli/1.25.3/bin/kubectl
+
+  
+2022-10-14 13:53:39,654 INFO     root            Display format: "none"
+2022-10-14 13:53:39,672 DEBUG    root            Metrics reporting process started...

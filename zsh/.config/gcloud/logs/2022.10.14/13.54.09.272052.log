@@ -1,0 +1,10 @@
+2022-10-14 13:54:09,273 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2022-10-14 13:54:09,274 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations']
+2022-10-14 13:54:09,276 ERROR    root            (gcloud.config.configurations) Command name argument expected.
+2022-10-14 13:54:09,277 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'list']
+2022-10-14 13:54:09,278 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'create']
+2022-10-14 13:54:09,279 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'rename']
+2022-10-14 13:54:09,280 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'activate']
+2022-10-14 13:54:09,281 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'describe']
+2022-10-14 13:54:09,282 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'configurations', 'delete']
+2022-10-14 13:54:09,291 DEBUG    root            Metrics reporting process started...

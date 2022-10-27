@@ -1,0 +1,40 @@
+2022-10-14 12:39:02,282 DEBUG    root            Loaded Command Group: ['gcloud', 'init']
+2022-10-14 12:39:02,284 DEBUG    root            Running [gcloud.init] with arguments: []
+2022-10-14 12:39:02,284 INFO     ___FILE_ONLY___ Welcome! This command will take you through the configuration of gcloud.
+
+
+2022-10-14 12:39:02,285 INFO     ___FILE_ONLY___ Settings from your current configuration [default] are:
+
+2022-10-14 12:39:02,289 INFO     ___FILE_ONLY___ core:
+  account: marlonlede@thesting.com
+  disable_usage_reporting: 'False'
+  project: ts-ecom-internal
+
+2022-10-14 12:39:02,289 INFO     ___FILE_ONLY___ 
+
+2022-10-14 12:39:14,439 INFO     ___FILE_ONLY___ Your current configuration has been set to: [default]
+
+
+2022-10-14 12:39:14,439 INFO     ___FILE_ONLY___ You can skip diagnostics next time by using the following flag:
+
+2022-10-14 12:39:14,439 INFO     ___FILE_ONLY___   gcloud init --skip-diagnostics
+
+
+2022-10-14 12:39:14,439 INFO     ___FILE_ONLY___ Network diagnostic detects and fixes local network connection issues.
+
+2022-10-14 12:39:14,440 INFO     ___FILE_ONLY___ Checking network connection...
+2022-10-14 12:39:15,712 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): accounts.google.com:443
+2022-10-14 12:39:15,796 DEBUG    urllib3.connectionpool https://accounts.google.com:443 "GET / HTTP/1.1" 302 338
+2022-10-14 12:39:15,861 DEBUG    urllib3.connectionpool https://accounts.google.com:443 "GET /ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F HTTP/1.1" 302 523
+2022-10-14 12:39:15,916 DEBUG    urllib3.connectionpool https://accounts.google.com:443 "GET /v3/signin/identifier?dsh=S750924%3A1665743955983202&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWo01kAXXsUvlWDi2KpenNKDulhslkz7jUKGFUQ0kyns4rRClDhxsdRICuVFypcWzwzVlD909g HTTP/1.1" 200 None
+2022-10-14 12:39:15,987 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2022-10-14 12:39:16,627 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1beta1/projects HTTP/1.1" 401 None
+2022-10-14 12:39:16,632 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): www.googleapis.com:443
+2022-10-14 12:39:16,709 DEBUG    urllib3.connectionpool https://www.googleapis.com:443 "GET /auth/cloud-platform HTTP/1.1" 200 14
+2022-10-14 12:39:16,713 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): dl.google.com:443
+2022-10-14 12:39:16,800 DEBUG    urllib3.connectionpool https://dl.google.com:443 "GET /dl/cloudsdk/channels/rapid/components-2.json HTTP/1.1" 200 203444
+2022-10-14 12:39:16,870 INFO     ___FILE_ONLY___ Reachability Check passed.
+
+2022-10-14 12:39:16,870 INFO     ___FILE_ONLY___ Network diagnostic passed (1/1 checks passed).
+
+
