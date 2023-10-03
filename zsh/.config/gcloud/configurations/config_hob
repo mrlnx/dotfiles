@@ -1,8 +1,0 @@
-[core]
-project = hob-webshop
-account = marlonlede@thesting.com
-
-[compute]
-region = europe-west1
-zone = europe-west1-b
-
