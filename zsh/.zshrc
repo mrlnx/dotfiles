@@ -4,7 +4,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/ledemn/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -83,6 +83,7 @@ plugins=(
   zsh-autosuggestions
   web-search
   you-should-use
+  cmatrix
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -113,7 +114,7 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="vim ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias stingdir="cd /Users/ledemn/Documents/Projects/the-sting"
+alias projectdir="cd $HOME/Documents/Projects"
 alias matrix="cmatrix"
 alias weer="curl wttr.in/Amsterdam"
 alias rm_node_modules="find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +"
@@ -129,10 +130,8 @@ eval "$(starship init zsh)"
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
 
-
-
 # The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/ledemn/Desktop/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/ledemn/Desktop/google-cloud-sdk/path.zsh.inc'; fi
+if [ -f "$HOME/Desktop/google-cloud-sdk/path.zsh.inc" ]; then . "$HOME/google-cloud-sdk/path.zsh.inc"; fi
 
 # The next line enables shell command completion for gcloud.
-if [ -f '/Users/ledemn/Desktop/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/ledemn/Desktop/google-cloud-sdk/completion.zsh.inc'; fi
+if [ -f "$HOME/Desktop/google-cloud-sdk/completion.zsh.inc" ]; then . "$HOME/Desktop/google-cloud-sdk/completion.zsh.inc"; fi

@@ -1,6 +1,0 @@
-2022-10-14 13:55:16,310 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
-2022-10-14 13:55:16,337 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
-2022-10-14 13:55:16,340 DEBUG    root            Running [gcloud.config.set] with arguments: [SECTION/PROPERTY: "core/project", VALUE: "hob-webshop"]
-2022-10-14 13:55:16,340 INFO     ___FILE_ONLY___ Updated property [core/project].
-
-2022-10-14 13:55:16,341 INFO     root            Display format: "default"
